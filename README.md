@@ -15,7 +15,7 @@ O jogo da velha consiste em uma mistura de aprendizado com entretenimento, onde 
  ## Jogo na prática
 
 <B>TELA INICIAL</B><br>
-<img src="tic-tac-toe/images/jogodavelha.png" alt="tela inicial">
+<img src="jogodavelha/images/jogodavelha.png" alt="tela inicial">
 
 
 ## Desenvolvedor
